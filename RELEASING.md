@@ -115,7 +115,7 @@ Add new "Unreleased" section to [CHANGELOG.md](CHANGELOG.md) using this template
 
 Replace `<THIS_VERSION>` with the newly released versions to set up the compare view on Github.
 
-Increment the minor version, modify [lib/hashie/version.rb](lib/hashie/version.rb).
+Increment the patch version, modify [lib/hashie/version.rb](lib/hashie/version.rb).
 
 Commit your changes.
 

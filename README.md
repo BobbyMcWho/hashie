@@ -20,7 +20,8 @@ $ gem install hashie
 
 ## Stable Release
 
-You're reading the documentation for the stable release of Hashie, 3.7.0.
+You're reading the documentation for the next release of Hashie, which should be 3.7.1.
+The current stable release is [3.7.0](https://github.com/intridea/hashie/blob/v3.7.0/README.md).
 
 
 ## Hash Extensions
